@@ -1,6 +1,6 @@
-let numero = 3;
+const numero = 3;
 if (true) {
-    const numero = 8;
+    const numero = 2;
     console.log(numero);
 }
 console.log(numero);
